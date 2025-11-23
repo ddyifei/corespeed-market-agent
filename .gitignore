@@ -1,0 +1,13 @@
+# Python 忽略文件
+__pycache__/
+*.py[cod]
+venv/
+.env
+.DS_Store
+
+# Node/React 忽略文件
+node_modules/
+dist/
+build/
+.npm
+*.log
